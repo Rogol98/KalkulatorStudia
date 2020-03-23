@@ -1,0 +1,15 @@
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\.vs\Kalkulator\lut\0\b\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\.vs\Kalkulator\lut\0\b\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\.vs\Kalkulator\lut\0\b\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\.vs\Kalkulator\lut\0\i\Kalkulator\Debug\MainWindow.g.cs
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\.vs\Kalkulator\lut\0\i\Kalkulator\Debug\App.g.cs
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\.vs\Kalkulator\lut\0\i\Kalkulator\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\.vs\Kalkulator\lut\0\i\Kalkulator\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\.vs\Kalkulator\lut\0\i\Kalkulator\Debug\MainWindow.baml
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\.vs\Kalkulator\lut\0\i\Kalkulator\Debug\Kalkulator.g.resources
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\.vs\Kalkulator\lut\0\i\Kalkulator\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\.vs\Kalkulator\lut\0\i\Kalkulator\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\.vs\Kalkulator\lut\0\i\Kalkulator\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\.vs\Kalkulator\lut\0\i\Kalkulator\Debug\Kalkulator.csproj.CopyComplete
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\.vs\Kalkulator\lut\0\i\Kalkulator\Debug\Kalkulator.exe
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\.vs\Kalkulator\lut\0\i\Kalkulator\Debug\Kalkulator.pdb

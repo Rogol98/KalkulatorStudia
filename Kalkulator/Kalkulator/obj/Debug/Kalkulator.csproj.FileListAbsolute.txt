@@ -1,0 +1,168 @@
+C:\Users\Konrad\source\repos\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Konrad\source\repos\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Konrad\source\repos\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Konrad\source\repos\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Konrad\source\repos\Kalkulator\Kalkulator\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Konrad\source\repos\Kalkulator\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Konrad\source\repos\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Konrad\source\repos\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Konrad\source\repos\Kalkulator\Kalkulator\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Konrad\source\repos\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Konrad\source\repos\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Konrad\source\repos\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Konrad\source\repos\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\source\repos\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Konrad\source\repos\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Krystian\Desktop\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Krystian\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Krystian\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Krystian\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Un1kalny\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Un1kalny\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Un1kalny\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Un1kalny\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Un1kalny\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Un1kalny\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Un1kalny\Desktop\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Un1kalny\Desktop\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Un1kalny\Desktop\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Un1kalny\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Un1kalny\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Un1kalny\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Un1kalny\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\Un1kalny\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Krystian\Desktop\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Krystian\Desktop\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Krystian\Desktop\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Krystian\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Krystian\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Krystian\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Krystian\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Krystian\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Krystian\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Krystian\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Krystian\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\Krystian\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Krystian\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Krystian\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Krystian\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\Konrad\Desktop\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Konrad\Desktop\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Konrad\Desktop\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Konrad\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Konrad\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Konrad\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Konrad\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Konrad\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Konrad\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Konrad\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Konrad\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Konrad\Desktop\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Krystian\Desktop\Kalkulator (1) (2)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\Krystian\Desktop\Kalkulator (1) (2)\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Krystian\Desktop\Kalkulator (1) (2)\Kalkulator (1)\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Krystian\Desktop\Kalkulator (1) (2)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Krystian\Desktop\Kalkulator (1) (2)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Krystian\Desktop\Kalkulator (1) (2)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Krystian\Desktop\Kalkulator (1) (2)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Krystian\Desktop\Kalkulator (1) (2)\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Krystian\Desktop\Kalkulator (1) (2)\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Krystian\Desktop\Kalkulator (1) (2)\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Krystian\Desktop\Kalkulator (1) (2)\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Krystian\Desktop\Kalkulator (1) (2)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Krystian\Desktop\Kalkulator (1) (2)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Krystian\Desktop\Kalkulator (1) (2)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\Krystian\Desktop\Kalkulator (1) (2)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Downloads\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Konrad\Downloads\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Konrad\Downloads\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Konrad\Downloads\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Konrad\Downloads\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Konrad\Downloads\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Konrad\Downloads\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Konrad\Downloads\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Konrad\Downloads\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Konrad\Downloads\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Konrad\Downloads\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Konrad\Downloads\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Konrad\Downloads\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Downloads\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Konrad\Downloads\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Konrad\Desktop\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Konrad\Desktop\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Konrad\Desktop\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Konrad\Desktop\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Konrad\Desktop\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Konrad\Desktop\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Konrad\Desktop\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Konrad\Desktop\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Konrad\Desktop\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Konrad\Desktop\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Konrad\Desktop\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Konrad\Desktop\Kalkulator FAJNAL WERSZYN KURWA MAC\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Konrad\Desktop\Kalkulator\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Konrad\Desktop\Kalkulator\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Konrad\Desktop\Kalkulator\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Konrad\Desktop\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Konrad\Desktop\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Konrad\Desktop\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Konrad\Desktop\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Konrad\Desktop\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Konrad\Desktop\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Konrad\Desktop\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Konrad\Desktop\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Konrad\Desktop\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\App.g.cs
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\Kalkulator\obj\Debug\App.g.cs
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\user\Desktop\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\user\Desktop\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\user\Desktop\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\user\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\user\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\user\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\user\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\user\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\user\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb

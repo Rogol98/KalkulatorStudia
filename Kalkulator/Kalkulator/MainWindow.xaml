@@ -1,0 +1,80 @@
+﻿<Window x:Class="Kalkulator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kalkulator"
+        mc:Ignorable="d"
+        Title="KALKULATORYZATOR" Height="690" Width="569">
+    <Grid Margin="0,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45*"></RowDefinition>
+            <RowDefinition Height="43*"></RowDefinition>
+            <RowDefinition Height="43*"/>
+            <RowDefinition Height="43*"/>
+            <RowDefinition Height="43*"></RowDefinition>
+            <RowDefinition Height="43*"></RowDefinition>
+            <RowDefinition Height="43*"></RowDefinition>
+            <RowDefinition Height="43*"></RowDefinition>
+            <RowDefinition Height="43*"></RowDefinition>
+            <RowDefinition Height="43*"></RowDefinition>
+
+
+
+        </Grid.RowDefinitions>
+        <Button x:Name="p9"  Grid.Row="6" Grid.Column="2" Click="Click">9</Button>
+        <Button x:Name="p8"  Grid.Row="6" Grid.Column="1" Click="Click">8</Button>
+        <Button x:Name="p7"  Grid.Row="6" Grid.Column="0" Click="Click">7</Button>
+        <Button x:Name="p6"  Grid.Row="7" Grid.Column="2" Click="Click">6</Button>
+        <Button x:Name="p5"  Grid.Row="7" Grid.Column="1" Click="Click">5</Button>
+        <Button x:Name="p4"  Grid.Row="7" Grid.Column="0" Click="Click">4</Button>
+        <Button x:Name="p3"  Grid.Row="8" Grid.Column="2" Click="Click">3</Button>
+        <Button x:Name="p2"  Grid.Row="8" Grid.Column="1" Click="Click">2</Button>
+        <Button x:Name="p1"  Grid.Row="8" Grid.Column="0" Click="Click">1</Button>
+        <Button x:Name="p0"  Grid.Row="9" Grid.Column="1" Click="Click">0</Button>
+        <Button x:Name="pcomma"  Grid.Row="9" Grid.Column="2" Click="Click">,</Button>
+
+        <Button x:Name="pdziel"  Grid.Row="5" Grid.Column="3" Click="Op_Click">/</Button>
+        <Button x:Name="pmnoz"   Grid.Row="6" Grid.Column="3" Click="Op_Click">*</Button>
+        <Button x:Name="pdodaj"  Grid.Row="7" Grid.Column="3" Click="Op_Click">+</Button>
+        <Button x:Name="pminus"  Grid.Row="8" Grid.Column="3" Click="Op_Click">-</Button>
+        <Button x:Name="prowna"  Grid.Row="9" Grid.Column="3" Click="Wynik">=</Button>
+        <Button x:Name="ppotega"  Grid.Row="4" Grid.Column="3" Click="Op_Click">^</Button>
+        <Button x:Name="pprocent"  Grid.Row="4" Grid.Column="2" Click="Op_Click">%</Button>
+        <Button x:Name="ppierwiastek"  Grid.Row="4" Grid.Column="1" Click="Op_Click">√</Button>
+        <Button x:Name="pmodulo"  Grid.Row="4" Grid.Column="0" Click="Op_Click">mod</Button>
+        <Button x:Name="pbin"  Grid.Row="5" Grid.Column="1" Click="Op_Click">bin</Button>
+        <Button x:Name="psil"  Grid.Row="5" Grid.Column="2" Click="Op_Click">!</Button>
+        <Button x:Name="ppotega_Copy"  Grid.Row="4" Grid.Column="3" Click="Op_Click" Content="^"/>
+        <Button x:Name="pprocent_Copy"  Grid.Row="4" Grid.Column="2" Click="Op_Click" Content="%"/>
+        <Button x:Name="ppierwiastek_Copy"  Grid.Row="4" Grid.Column="1" Click="Op_Click" Content="√"/>
+        <Button x:Name="pmodulo_Copy"  Grid.Row="4" Grid.Column="0" Click="Op_Click" Content="mod"/>
+        <Button x:Name="sin"  Grid.Row="3" Grid.Column="0" Click="Op_Click" Content="sin"/>
+        <Button x:Name="cos"  Grid.Row="3" Grid.Column="1" Click="Op_Click" Content="cos"/>
+        <Button x:Name="tg"  Grid.Row="3" Grid.Column="2" Click="Op_Click" Content="tg"/>
+        <Button x:Name="ctg"  Grid.Row="3" Grid.Column="3" Click="Op_Click" Content="ctg"/>
+        <Button x:Name="sinh"  Grid.Row="2" Grid.Column="0" Click="Op_Click" Content="sinh"/>
+        <Button x:Name="cosh"  Grid.Row="2" Grid.Column="1" Click="Op_Click" Content="cosh"/>
+        <Button x:Name="log"  Grid.Row="2" Grid.Column="2" Click="Op_Click" Content="log"/>
+        <Button x:Name="ln"  Grid.Row="2" Grid.Column="3" Click="Op_Click" Content="ln"/>
+        <Button x:Name="pC"  Grid.Row="5" Grid.Column="0" Click="Clear">C</Button>
+        <Button x:Name="pznak"  Grid.Row="9" Grid.Column="0" Click="ZmianaZnakuLiczby">+ -</Button>
+
+
+
+        <Label x:Name="pamiec" Grid.Column="2" Margin="98.2,0,-0.4,25" Opacity="0.7" Grid.ColumnSpan="2" FontFamily="SimSun" Content=""></Label>
+       
+        
+       
+        <TextBox x:Name="screenik"  IsReadOnly="True" VerticalAlignment="Bottom" FontSize="69" BorderThickness="1" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" Grid.RowSpan="2" Height="96" TextAlignment="Right" Margin="0,0,-0.4,0">0</TextBox>
+
+      
+    </Grid>
+</Window>

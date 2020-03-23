@@ -1,0 +1,78 @@
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\bin\Debug\KalkulatorTests.dll
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\bin\Debug\KalkulatorTests.pdb
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\bin\Debug\Kalkulator.exe
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\bin\Debug\Kalkulator.pdb
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\bin\Debug\Kalkulator.exe.config
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\obj\Debug\KalkulatorTests.csprojResolveAssemblyReference.cache
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\obj\Debug\KalkulatorTests.csproj.CoreCompileInputs.cache
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\obj\Debug\KalkulatorTests.csproj.CopyComplete
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\obj\Debug\KalkulatorTests.dll
+C:\Users\lpmusicon\Downloads\Kalkulator\Kalkulator (1)\KalkulatorTests\obj\Debug\KalkulatorTests.pdb
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\bin\Debug\KalkulatorTests.dll
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\bin\Debug\KalkulatorTests.pdb
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\bin\Debug\Kalkulator.exe
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\bin\Debug\Kalkulator.pdb
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\bin\Debug\Kalkulator.exe.config
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\obj\Debug\KalkulatorTests.csprojResolveAssemblyReference.cache
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\obj\Debug\KalkulatorTests.csproj.CoreCompileInputs.cache
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\obj\Debug\KalkulatorTests.dll
+C:\Users\Krystian\Desktop\Kalkulator (1)\KalkulatorTests\obj\Debug\KalkulatorTests.pdb
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\bin\Debug\KalkulatorTests.dll
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\bin\Debug\KalkulatorTests.pdb
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\bin\Debug\Kalkulator.exe
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\bin\Debug\Kalkulator.pdb
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\bin\Debug\Kalkulator.exe.config
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\obj\Debug\KalkulatorTests.csprojResolveAssemblyReference.cache
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\obj\Debug\KalkulatorTests.csproj.CoreCompileInputs.cache
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\obj\Debug\KalkulatorTests.dll
+C:\Users\Un1kalny\Desktop\Kalkulator (1)\Kalkulator (1)\KalkulatorTests\obj\Debug\KalkulatorTests.pdb
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\bin\Debug\KalkulatorTests.dll
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\bin\Debug\KalkulatorTests.pdb
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\bin\Debug\Kalkulator.exe
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\bin\Debug\Kalkulator.pdb
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\bin\Debug\Kalkulator.exe.config
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\obj\Debug\KalkulatorTests.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\obj\Debug\KalkulatorTests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\obj\Debug\KalkulatorTests.csproj.CopyComplete
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\obj\Debug\KalkulatorTests.dll
+C:\Users\user\Desktop\Kalkulator\Kalkulator\KalkulatorTests\obj\Debug\KalkulatorTests.pdb
